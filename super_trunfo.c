@@ -56,4 +56,4 @@ int main() {
     printf("Número de pontos turísticos: %d ========= %d\n", pontosTuristicos1, pontosTuristicos2);
 
     return 0;
-}  
+}
